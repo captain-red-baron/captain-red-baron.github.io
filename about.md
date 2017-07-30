@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Marcel Mueller, I am using this blog for posting cool stuff related to anything about programming or data science. If you want to get me to know, contact me right away.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marcelmueller@muellermarcel.com](mailto:marcelmueller@muellermarcel.com)
